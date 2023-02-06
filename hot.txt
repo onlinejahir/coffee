@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I like hot coffee
+=======
+I like hot chocolate
+>>>>>>> Stashed changes
