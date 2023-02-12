@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is myfile
 =======
 This is anothr line and this line is added in another branch and then will be merged in master branch and finally will
 be pushed in github repository.
 >>>>>>> another-branch
+=======
+This is Gopal branch, I am working in this branch
+This is Gopal
+>>>>>>> d55a29be3e4d50b70497268e5be94a1f7f4f092c
