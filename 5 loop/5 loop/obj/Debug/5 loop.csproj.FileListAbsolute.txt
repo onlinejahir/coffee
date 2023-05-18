@@ -1,0 +1,15 @@
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\bin\Debug\5 loop.exe.config
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\bin\Debug\5 loop.exe
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\bin\Debug\5 loop.pdb
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\obj\Debug\5 loop.csproj.AssemblyReference.cache
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\obj\Debug\5 loop.csproj.CoreCompileInputs.cache
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\obj\Debug\5 loop.exe
+C:\Users\jahir\Desktop\P file\cs\5 loop\5 loop\obj\Debug\5 loop.pdb
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\bin\Debug\5 loop.exe.config
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\bin\Debug\5 loop.exe
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\bin\Debug\5 loop.pdb
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\obj\Debug\5 loop.csproj.AssemblyReference.cache
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\obj\Debug\5 loop.csproj.SuggestedBindingRedirects.cache
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\obj\Debug\5 loop.csproj.CoreCompileInputs.cache
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\obj\Debug\5 loop.exe
+C:\Users\jahir\Desktop\P file\cs\1 Asp Dot Net Explorer\5 loop\5 loop\obj\Debug\5 loop.pdb
